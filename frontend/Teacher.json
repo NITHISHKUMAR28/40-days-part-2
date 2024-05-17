@@ -1,0 +1,238 @@
+{
+  "teacher": [
+    {
+      "id": 1,
+      "tags": "HTML",
+      "VideoName": "HTML Course",
+      "VideoDescription": "Learn Html",
+      "UserName": "Vicky",
+      "link": "https://drive.google.com/file/d/1BDUIzq3eAH2xnbUFsveWu0WblCipCKmA/view?usp=sharing ",
+      "Template": "https://thumbnail.ai/view/fBJWB"
+    },
+    {
+      "id": 2,
+      "tags": "CSS",
+      "VideoName": "CSS Course",
+      "VideoDescription": "Learn Css",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1N_Tgfej6I7_HNqxieDj9dzqlQ5s3Pq2V/view?usp=sharing",
+      "Template": "https://www.pgsuae.com/wp-content/uploads/2023/11/CSS-Trends-for-2024-Predictions-and-Expectations.jpg"
+    },
+    {
+      "id": 3,
+      "tags": "JAVA SCRIPT",
+      "VideoName": "JAVA SCRIPT Course",
+      "VideoDescription": "Learn Java Script",
+      "UserName": "Kaushika",
+      "link": "https://drive.google.com/file/d/1jBfyxD8ZXSdI7C3m5TyHPc6xoOHZO1-M/view?usp=sharing ",
+      "Template": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Javascript.jpg"
+    },
+    {
+      "id": 4,
+      "tags": "COMMUNICATION",
+      "VideoName": "COMMUNICATION Course",
+      "VideoDescription": "Learn Communication",
+      "UserName": "vicky",
+      "link": "https://drive.google.com/file/d/16Rj2OqqLnBPRvGioZg2gY1nmu5bR8Uns/view?usp=sharing",
+      "Template": "https://franklincovey.mt/wp-content/uploads/2022/09/6-Communication-Techniques-thumbnail.jpeg"
+    },
+    {
+      "id": 5,
+      "tags": "PHYSICS",
+      "VideoName": "PHYSICS Course",
+      "VideoDescription": "Learn Physics",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1ryVNS8H_8pawCLa20OjecClHMYxoSlr6/view?usp=sharing",
+      "Template": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Learning_Physics.jpg"
+    },
+    {
+      "id": 6,
+      "tags": "DIGITAL MARKETING",
+      "VideoName": "DIGITAL MARKETING Course",
+      "VideoDescription": "Learn Digital Marketing",
+      "UserName": "Kaushika",
+      "link": "https://drive.google.com/file/d/1sq6WL5N9rkZfYSAXC9yNJ83GKjdlS9lV/view?usp=sharing ",
+      "Template": "https://octopuscrm.io/wp-content/uploads/2023/04/Thumbnail-Top-16-Digital-Marketing-Experts-to-Follow.png"
+    },
+    {
+      "id": 7,
+      "tags": "APTITUDE",
+      "VideoName": "APTITUDE Course",
+      "VideoDescription": "Learn Aptitude",
+      "UserName": "vicky",
+      "link": "https://drive.google.com/file/d/1Iv9TxHUAzIA0lybfC-HbGLVRVoYCDMi2/view?usp=sharing",
+      "Template": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrWSkY8GsXpNVuBD1ct1AF6N-shckTsH093pe2pmAQw&s"
+    },
+    {
+      "id": 8,
+      "tags": "GRAPICS DESIGN",
+      "VideoName": "GRAPICS DESIGN Course",
+      "VideoDescription": "Learn Grapics Design",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1DHB0FnBAsxnFjfmpKbI_sUoCVVHTO1Uo/view?usp=sharing",
+      "Template": "https://res.cloudinary.com/hamstech/images/f_auto,q_auto/v1637134439/Hamstech%20App/Title-Image-4_80465274aebb5/Title-Image-4_80465274aebb5.jpg?_i=AA"
+    },
+    {
+      "id": 9,
+      "tags": "AWS",
+      "VideoName": "AWSCourse",
+      "VideoDescription": "Learn Aws",
+      "UserName": "Kaushika",
+      "link": "",
+      "Template": ""
+    },
+    {
+      "id": 10,
+      "tags": "HTML",
+      "VideoName": "HTML Course",
+      "VideoDescription": "Learn Html",
+      "UserName": "Vicky",
+      "link": "https://drive.google.com/file/d/1K1Y848LpnU6KwhflKUN3F_KFCaaHwejn/view?usp=sharing",
+      "Template": "https://i.ytimg.com/vi/Pq08fNMOn7s/maxresdefault.jpg"
+    },
+    {
+      "id": 11,
+      "tags": "CSS",
+      "VideoName": "CSS Course",
+      "VideoDescription": "Learn Css",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1AXqMCYNa0XSewHwUGfPr0g8hq_3lWF_E/view?usp=sharing",
+      "Template": "https://media.geeksforgeeks.org/wp-content/uploads/20230427130955/CSS-Tutorial.webp"
+    },
+    {
+      "id": 13,
+      "tags": "JAVA SCRIPT",
+      "VideoName": "JAVA SCRIPT Course",
+      "VideoDescription": "Learn Java Script",
+      "UserName": "Kaushika",
+      "link": "https://drive.google.com/file/d/1FrAmDjd9Xf7FFbSa7lW6GAYLAqD9lU2y/view?usp=sharing ",
+      "Template": "https://blog.educalix.com/wp-content/uploads/2023/06/4533498_5e96_2.jpg"
+    },
+    {
+      "id": 14,
+      "tags": "COMMUNICATION",
+      "VideoName": "COMMUNICATION Course",
+      "VideoDescription": "Learn Communication",
+      "UserName": "vicky",
+      "link": "https://drive.google.com/file/d/12UPjdTuYgsaX4ZScBdPHHiljEpRK3oXl/view?usp=sharing",
+      "Template": "https://media.licdn.com/dms/image/D5612AQH_4AmtOr3-zw/article-cover_image-shrink_600_2000/0/1710175030953?e=2147483647&v=beta&t=Zse_g6tTdX1rQjjxQueHlu0C5bWF5CF8JCb_qX8AbJc"
+    },
+    {
+      "id": 15,
+      "tags": "PHYSICS",
+      "VideoName": "PHYSICS Course",
+      "VideoDescription": "Learn Physics",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1ryVNS8H_8pawCLa20OjecClHMYxoSlr6/view?usp=sharing",
+      "Template": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Physics_2.jpg"
+    },
+    {
+      "id": 16,
+      "tags": "DIGITAL MARKETING",
+      "VideoName": "DIGITAL MARKETING Course",
+      "VideoDescription": "Learn Digital Marketing",
+      "UserName": "Kaushika",
+      "link": "https://drive.google.com/file/d/127WUUpHHhiiTvZNHd02BmtngWbG28pWz/view?usp=sharing ",
+      "Template": "https://static.vecteezy.com/system/resources/previews/012/022/468/non_2x/digital-marketing-thumbnail-design-template-editable-video-thumbnail-vector.jpg"
+    },
+    {
+      "id": 17,
+      "tags": "APTITUDE",
+      "VideoName": "APTITUDE Course",
+      "VideoDescription": "Learn Aptitude",
+      "UserName": "vicky",
+      "link": "https://drive.google.com/file/d/1VrIZBm3-wE20XuErs2W7KQMvsypgWD4y/view?usp=sharing",
+      "Template": "https://mamabee.com/wp-content/uploads/2019/04/apptitude-test.jpg"
+    },
+    {
+      "id": 18,
+      "tags": "GRAPICS DESIGN",
+      "VideoName": "GRAPICS DESIGN Course",
+      "VideoDescription": "Learn Grapics Design",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1nDlqX2NOOVHP4gXKpdO-nvFOfjpv5vjP/view?usp=sharing",
+      "Template": "https://maacchandigarh.com/wp-content/uploads/2024/03/Graphic_designi_new.png"
+    },
+    {
+      "id": 20,
+      "tags": "HTML",
+      "VideoName": "HTML Course",
+      "VideoDescription": "Learn Html",
+      "UserName": "Vicky",
+      "link": "https://drive.google.com/file/d/1jshzGR-uteN5qsHQwMFT9Vr0hJO6e0ga/view?usp=sharing ",
+      "Template": "https://htmlblog.net/wp-content/uploads/2022/06/What-is-html-file.webp"
+    },
+    {
+      "id": 21,
+      "tags": "CSS",
+      "VideoName": "CSS Course",
+      "VideoDescription": "Learn Css",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1TXM4L-_2D-ZRk5kzQNOBOUO9qNFvcnaj/view?usp=sharing",
+      "Template": "https://play-lh.googleusercontent.com/y4KCb0IKpab3nfzyIrDvDidj88bg_DQ1IsDePWkfotA1GPKGqM5_rVdIz2JDzvvNuUs=w1024-h500"
+    },
+    {
+      "id": 22,
+      "tags": "JAVA SCRIPT",
+      "VideoName": "JAVA SCRIPT Course",
+      "VideoDescription": "Learn Java Script",
+      "UserName": "Kaushika",
+      "link": "https://drive.google.com/file/d/1FrAmDjd9Xf7FFbSa7lW6GAYLAqD9lU2y/view?usp=sharing",
+      "Template": "https://i.ytimg.com/vi/PkZNo7MFNFg/hqdefault.jpg"
+    },
+    {
+      "id": 23,
+      "tags": "COMMUNICATION",
+      "VideoName": "COMMUNICATION Course",
+      "VideoDescription": "Learn Communication",
+      "UserName": "vicky",
+      "link": "https://drive.google.com/file/d/1ib8FGvYoWCviIth0wSSO2ZBvJxmpszZ_/view?usp=sharing",
+      "Template": "https://www.hult.edu/blog/media/uploads/2021/06/communcation-blog-post.jpg"
+    },
+    {
+      "id": 24,
+      "tags": "PHYSICS",
+      "VideoName": "PHYSICS Course",
+      "VideoDescription": "Learn Physics",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1vNV224LmfS_bjVPv46Ks7A9QxRCiiJfO/view?usp=sharing",
+      "Template": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Problems_in_general_physics.jpg"
+    },
+    {
+      "id": 25,
+      "tags": "DIGITAL MARKETING",
+      "VideoName": "DIGITAL MARKETING Course",
+      "VideoDescription": "Learn Digital Marketing",
+      "UserName": "Kaushika",
+      "link": "https://drive.google.com/file/d/1Jt3DtAAXODz2DK8nmvuq-DjM1rRP5anV/view?usp=sharing ",
+      "Template": "https://i.pinimg.com/736x/c4/a4/20/c4a420d5152bec6094f3366e5df5cb1a.jpg"
+    },
+    {
+      "id": 26,
+      "tags": "APTITUDE",
+      "VideoName": "APTITUDE Course",
+      "VideoDescription": "Learn Aptitude",
+      "UserName": "vicky",
+      "link": "https://drive.google.com/file/d/1ZcH_HWlgRIZ43S3NVcKKYm2nqlfeTSVY/view?usp=sharing",
+      "Template": "https://cdn6.aptoide.com/imgs/0/e/8/0e850911f556d8e94da574fee23604c2_icon.png"
+    },
+    {
+      "id": 27,
+      "tags": "GRAPICS DESIGN",
+      "VideoName": "GRAPICS DESIGN Course",
+      "VideoDescription": "Learn Grapics Design",
+      "UserName": "Nithish",
+      "link": "https://drive.google.com/file/d/1Du1pAg4BToXv4FgcI2he1ngS2FPWlYih/view?usp=sharing",
+      "Template": "https:https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/341198691/original/5f37eaa359fa17f73f11a26765e07c3ac97af94a/designe-thumbnail-cover-letter-designe.png"
+    },
+    {
+      "id": "f352",
+      "tags": "AWS",
+      "VideoName": "AWS Course",
+      "VideoDescription": "Learn AWS",
+      "UserName": "Nithish",
+      "link": "last seen today at 9:20 AM TODAY YESTERDAY Kowshi Kgisl https://i.ytimg.com/vi/7ElkIRDsrP8/maxresdefault.jpg Aws 1 7:56 PM d2908q01vomqb2.cloudfront.net https://d2908q01vomqb2.cloudfront.net/c5b76da3e608d34edb07244cd9b875ee86906328/2021/08/10/Canada-SMB-Webinar-Thumbnail-1024x512.png d2908q01vomqb2.cloudfront.net https://d2908q01vomqb2.cloudfront.net/c5b76da3e608d34edb07244cd9b875ee86906328/2021/08/10/Canada-SMB-Webinar-Thumbnail-1024x512.png 7:57 PM Kowshi Kgisl https://d2908q01vomqb2.cloudfront.net/c5b76da3e608d34edb07244cd9b875ee86906328/2021/08/10/Canada-SMB-Webinar-Thumbnail-1024x512.png Aws 2 7:57 PM 5.imimg.com https://5.imimg.com/data5/SELLER/Default/2023/8/337823445/EJ/EY/JM/2775682/amazon-web-service.jpeg 5.imimg.com https://5.imimg.com/data5/SELLER/Default/2023/8/337823445/EJ/EY/JM/2775682/amazon-web-service.jpeg 7:57 PM Kowshi Kgisl https://5.imimg.com/data5/SELLER/Default/2023/8/337823445/EJ/EY/JM/2775682/amazon-web-service.jpeg Aws 3 7:57 PM TODAY ... 9:19 AM i.ytimg.com https://i.ytimg.com/vi/7ElkIRDsrP8/maxresdefault.jpg i.ytimg.com https://i.ytimg.com/vi/7ElkIRDsrP8/maxresdefault.jpg 9:19 AM Kowshi Kgisl https://i.ytimg.com/vi/7ElkIRDsrP8/maxresdefault.jpg Pic 9:19 AM drive.google.com https://drive.google.com/file/d/1jJVCgK6VL4DvrQxQ6IZMDqB5kC-1orch/view?usp=sharing drive.google.com https://drive.google.com/file/d/1jJVCgK6VL4DvrQxQ6IZMDqB5kC-1orch/view?usp=sharing",
+      "Template": "https://i.ytimg.com/vi/7ElkIRDsrP8/maxresdefault.jpg"
+    }
+  ]
+}

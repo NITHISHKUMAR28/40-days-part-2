@@ -1,0 +1,32 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "role": "teacher",
+      "name": "Nithish",
+      "mail": "Nithish@123.com",
+      "password": "Nithish"
+    },
+    {
+      "id": "eb35",
+      "role": "student",
+      "name": "vickey",
+      "mail": "vickey@123",
+      "password": "123"
+    },
+    {
+      "id": "93e5",
+      "role": "student",
+      "name": "kaushi",
+      "mail": "kaushi@123",
+      "password": "123"
+    },
+    {
+      "id": "45a3",
+      "role": "student",
+      "name": "Albisel",
+      "mail": "Albisel@123",
+      "password": "123"
+    }
+  ]
+}
